@@ -6,8 +6,8 @@ body, h1, p, ul {
 
 /* Estilos generales del cuerpo de la página */
 body {
-    font-family: Arial, Helvetica, sans-serif
-    background-color: #d7c4c4; /* Color de fondo */
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:  #d7c4c4; /* Color de fondo */
     color: #333; /* Color del texto */
 }
 
