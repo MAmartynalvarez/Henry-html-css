@@ -1,0 +1,133 @@
+/* Reset de estilos para quitar márgenes y padding por defecto */
+body, h1, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos generales del cuerpo de la página */
+body {
+    font-family: Arial, Helvetica, sans-serif
+    background-color: #d7c4c4; /* Color de fondo */
+    color: #333; /* Color del texto */
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #6d3f2c; /* Color de fondo del encabezado */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #2c2020; /* Color del texto del encabezado */
+}
+
+p {
+    font-size: 1.2em;
+    margin-top: 10px;
+    color: #2c2727; /* Color del texto del párrafo */
+}
+
+/* Estilos de la navegación */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+button {
+    background-color: #63a1d3; /* Color del botón */
+    color: #070707; /* Color del texto del botón */
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Reset de estilos para quitar márgenes y padding por defecto */
+body, h1, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos generales del cuerpo de la página */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5; /* Color de fondo */
+    color: #333; /* Color del texto */
+}
+
+/* Estilos del encabezado */
+header {
+    background-color: #89a222; /* Color de fondo del encabezado */
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color:  #54372b; /* Color del texto del encabezado */
+}
+
+p {
+    font-size: 1.2em;
+    margin-top: 10px;
+    color: #ededec; /* Color del texto del párrafo */
+}
+
+/* Estilos de la navegación */
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+button {
+    background-color:#54372b; /* Color del botón */
+    color: #89a222; /* Color del texto del botón */
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilos de las imágenes en el encabezado */
+header img {
+    margin: 10px;
+    border-radius: 8px;
+}
+
+/* Estilos del pie de página */
+footer {
+    background-color: #54372b; /* Color de fondo del pie de página */
+    text-align: center;
+    padding: 20px;
+    color: #89a222; /* Color del texto del pie de página */
+}
+
+footer a {
+    color: #89a222; /* Color del enlace del pie de página */
+    text-decoration: none;
+}
+
+/* Estilos de las imágenes en el pie de página */
+footer img {
+    margin: 10px;
+    border-radius: 8px;
+}
+
+/* Estilos del mensaje del pie de página */
+footer h3 {
+    margin-top: 10px;
+}
